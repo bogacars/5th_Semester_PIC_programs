@@ -1,0 +1,41 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Sun Sep 18 15:55:34 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000056
+.config_2007_BUILD/DEFAULT/PRODUCTION/LAB1A.O       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/LAB1A.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x00002e      
+                            0x002007    0x002008      
+            48 out of 4359 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                INTERRUPT   0x000019    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+                MAINBEGIN   0x00001a    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+                    SETUP   0x000006    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    SETUP   0x000006    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+                INTERRUPT   0x000019    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+                MAINBEGIN   0x00001a    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab1a.X\lab1a.asm
+
+

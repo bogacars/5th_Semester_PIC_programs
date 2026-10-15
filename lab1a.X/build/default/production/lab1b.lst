@@ -1,0 +1,23 @@
+MPASM 5.86                         LAB1B.ASM   9-18-2022  15:55:06         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                      00001 
+                      00002 
+                      00003 
+Error[129]  : Expected (END)
+MPASM 5.86                         LAB1B.ASM   9-18-2022  15:55:06         PAGE  2
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+__16F883                          00000001
+
+Errors   :     1
+Warnings :     0 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+

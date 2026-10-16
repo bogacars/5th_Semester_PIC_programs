@@ -1,0 +1,29 @@
+Warning[215] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 3 : Processor superseded by command line.  Verify processor symbol.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 72 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 76 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 85 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 86 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 93 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 103 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 106 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 108 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 110 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 111 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 115 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 116 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 120 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 124 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 130 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 131 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 132 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 133 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 186 : Found label after column 1. (RXSUB)
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 219 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 225 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 231 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB9.X\LAB9.ASM 275 : Register in operand not in bank 0.  Ensure that bank bits are correct.

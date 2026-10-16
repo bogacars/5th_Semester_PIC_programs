@@ -1,0 +1,6 @@
+Warning[215] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB6A.X\LAB6A.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.

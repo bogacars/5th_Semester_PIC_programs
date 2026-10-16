@@ -1,0 +1,6 @@
+Warning[215] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Warning[207] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 19 : Found label after column 1. (COUNT1)
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[211] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5A.X\LAB5A.ASM 62 : Extraneous arguments on the line.

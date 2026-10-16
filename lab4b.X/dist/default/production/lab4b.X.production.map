@@ -1,0 +1,49 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Fri Sep 23 14:16:12 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000046
+.config_2007_BUILD/DEFAULT/PRODUCTION/LAB4B.O       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/LAB4B.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x000026      
+                            0x002007    0x002008      
+            40 out of 4359 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 DELAYSUB   0x000015    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                INTERRUPT   0x000010    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP1   0x000017    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP2   0x000019    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP3   0x000022    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                MAINBEGIN   0x000011    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    SETUP   0x000006    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    SETUP   0x000006    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                INTERRUPT   0x000010    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                MAINBEGIN   0x000011    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                 DELAYSUB   0x000015    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP1   0x000017    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP2   0x000019    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+                    LOOP3   0x000022    program     static C:\Users\clbog\OneDrive\Desktop\PIC16F883 Programs\lab4b.X\lab4b.asm
+
+

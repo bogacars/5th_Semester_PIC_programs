@@ -1,0 +1,8 @@
+Warning[215] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 124 : Argument out of range.  Least significant bits used.
+Warning[205] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB5B.X\LAB5B.ASM 171 : Found directive in column 1. (END)

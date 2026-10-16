@@ -1,0 +1,10 @@
+Warning[215] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 3 : Processor superseded by command line.  Verify processor symbol.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 66 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 159 : Found label after column 1. (EWSUB)
+Warning[207] C:\USERS\CLBOG\ONEDRIVE\DESKTOP\PIC16F883 PROGRAMS\LAB7.X\LAB7.ASM 169 : Found label after column 1. (LOADCOUNT)

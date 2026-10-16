@@ -16,10 +16,10 @@
 
 - Lab 8a reads a potentiometer and converts an analog signal to digital on the output
 
-Lab 8b reads a potentiometer on the input and the output drives a servo motor
+- Lab 8b reads a potentiometer on the input and the output drives a servo motor
 
-Lab 9 uses serial sent through visual basic to the PIC to control the servo position
+- Lab 9 uses serial sent through visual basic to the PIC to control the servo position
 
-Lab 10a(osogof) is basic read/write to the PIC EEPROM
+- Lab 10a(osogof) is basic read/write to the PIC EEPROM
 
-Lab 10pt2 records keypads pressed and writes them to EEPROM and will read them back through a dot matrix display
+- Lab 10pt2 records keypads pressed and writes them to EEPROM and will read them back through a dot matrix display
